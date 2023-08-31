@@ -1,0 +1,29 @@
+.hidden {
+    display: none;
+  }
+
+  .loader {
+    display: none; 
+  }
+
+.cat-info{
+  margin-top: 50px;
+  display: flex;
+  width: 75%;
+  gap: 50px;
+  align-items: center;
+}
+
+.img__cat-info{
+  margin: 0;
+  padding: 0;
+}
+
+.img__cat-info img{
+  width: 100%;
+  height: auto;
+}
+
+.text__cat-info p{
+  width: 75%;
+}
